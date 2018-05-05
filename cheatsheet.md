@@ -33,3 +33,4 @@ Sets the email you want attached to your commit transactions
 git config --global color.ui auto
 ```
 Enables helpful colorization command line output
+
